@@ -276,22 +276,22 @@ Spring Data REST fournit automatiquement une documentation HAL explorable.
 
 
 ## Demonstration :
-![Screenshot 2025-11-10 225204.png](../../Images/Screenshots/Screenshot%202025-11-10%20225204.png)
+<img width="2559" height="1390" alt="Screenshot 2025-11-10 225421" src="https://github.com/user-attachments/assets/8eadad31-e639-4272-a631-e910b9248d9d" />
 
 
-![Screenshot 2025-11-10 225217.png](../../Images/Screenshots/Screenshot%202025-11-10%20225217.png)
+<img width="1542" height="1124" alt="Screenshot 2025-11-10 225244" src="https://github.com/user-attachments/assets/6257b34d-454e-49a8-826d-cd90a2d49903" />
 
 
-
-![Screenshot 2025-11-10 225225.png](../../Images/Screenshots/Screenshot%202025-11-10%20225225.png)
-
+<img width="1546" height="1127" alt="Screenshot 2025-11-10 225235" src="https://github.com/user-attachments/assets/41089815-7f86-43e5-bef6-f00f76a80d27" />
 
 
-![Screenshot 2025-11-10 225235.png](../../Images/Screenshots/Screenshot%202025-11-10%20225235.png)
+<img width="1543" height="1125" alt="Screenshot 2025-11-10 225225" src="https://github.com/user-attachments/assets/40b11b65-e754-4a78-8c9f-103ff2aa83b5" />
 
 
+<img width="1543" height="1125" alt="Screenshot 2025-11-10 225217" src="https://github.com/user-attachments/assets/f895dadc-cad2-4946-95d7-ec9e4c360fac" />
 
-![Screenshot 2025-11-10 225244.png](../../Images/Screenshots/Screenshot%202025-11-10%20225244.png)
+
+<img width="1537" height="1127" alt="Screenshot 2025-11-10 225204" src="https://github.com/user-attachments/assets/11b51f5c-b662-4778-a31a-205b26656196" />
 
 
 ## 🎯 Améliorations Possibles
